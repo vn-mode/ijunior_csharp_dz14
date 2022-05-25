@@ -1,0 +1,13 @@
+/Users/mac/Documents/ijunior/vn_mode_dz_14/bin/Debug/netcoreapp3.1/vn_mode_dz_14.deps.json
+/Users/mac/Documents/ijunior/vn_mode_dz_14/bin/Debug/netcoreapp3.1/vn_mode_dz_14.runtimeconfig.json
+/Users/mac/Documents/ijunior/vn_mode_dz_14/bin/Debug/netcoreapp3.1/vn_mode_dz_14.runtimeconfig.dev.json
+/Users/mac/Documents/ijunior/vn_mode_dz_14/bin/Debug/netcoreapp3.1/vn_mode_dz_14.dll
+/Users/mac/Documents/ijunior/vn_mode_dz_14/bin/Debug/netcoreapp3.1/vn_mode_dz_14.pdb
+/Users/mac/Documents/ijunior/vn_mode_dz_14/obj/Debug/netcoreapp3.1/vn_mode_dz_14.csproj.AssemblyReference.cache
+/Users/mac/Documents/ijunior/vn_mode_dz_14/obj/Debug/netcoreapp3.1/vn_mode_dz_14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/ijunior/vn_mode_dz_14/obj/Debug/netcoreapp3.1/vn_mode_dz_14.AssemblyInfoInputs.cache
+/Users/mac/Documents/ijunior/vn_mode_dz_14/obj/Debug/netcoreapp3.1/vn_mode_dz_14.AssemblyInfo.cs
+/Users/mac/Documents/ijunior/vn_mode_dz_14/obj/Debug/netcoreapp3.1/vn_mode_dz_14.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/ijunior/vn_mode_dz_14/obj/Debug/netcoreapp3.1/vn_mode_dz_14.dll
+/Users/mac/Documents/ijunior/vn_mode_dz_14/obj/Debug/netcoreapp3.1/vn_mode_dz_14.pdb
+/Users/mac/Documents/ijunior/vn_mode_dz_14/obj/Debug/netcoreapp3.1/vn_mode_dz_14.genruntimeconfig.cache
